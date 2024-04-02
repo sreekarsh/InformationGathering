@@ -1,5 +1,5 @@
 # InformationGathering
-Information Gathering Techiques
+## Information Gathering Techiques
 
 # To perform information gathering techniques
 
@@ -39,7 +39,8 @@ Open terminal/browser and try execute necessary commands/use url to perform info
 
 ## WHATWEB
 
-![Screenshot from 2024-04-01 23-40-03](https://github.com/sreekarsh/InformationGathering/assets/139841918/d6801caf-b306-4507-b95b-27c64e8971cb)
+![Screenshot from 2024-04-01 23-50-03](https://github.com/sreekarsh/InformationGathering/assets/139841918/15fb7fa6-f106-4ba7-ade0-02092eeb40fb)
+
 
 
 ## RESULT:
