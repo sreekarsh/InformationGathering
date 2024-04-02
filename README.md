@@ -35,9 +35,12 @@ Open terminal/browser and try execute necessary commands/use url to perform info
 
 ## NMAP
 
+![Screenshot from 2024-04-01 23-23-00](https://github.com/sreekarsh/InformationGathering/assets/139841918/00b49077-22c3-4a19-a78d-a44d6c76e4df)
 
 ## WHATWEB
-![image](https://github.com/MARXINLIJO/InformationGathering/assets/145742540/dec7194b-ebfa-43d8-b6c4-d1ed83268117)
+
+![Screenshot from 2024-04-01 23-40-03](https://github.com/sreekarsh/InformationGathering/assets/139841918/d6801caf-b306-4507-b95b-27c64e8971cb)
+
 
 ## RESULT:
 The information gathering techniques tools/procedure were  identified successfully
