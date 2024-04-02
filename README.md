@@ -23,13 +23,18 @@ Open terminal/browser and try execute necessary commands/use url to perform info
 
 ## OUTPUT:
 ## WHOIS
-![Screenshot 2024-03-26 040212](https://github.com/MARXINLIJO/InformationGathering/assets/145742540/81dcb147-1fd4-429a-8f43-5ce810c11167)
+
+![Screenshot 2024-04-02 030513](https://github.com/sreekarsh/InformationGathering/assets/139841918/bc6c8d7d-e26c-4609-bf75-b803210b998e)
+
 ## IP2LOCATION:
-![image](https://github.com/MARXINLIJO/InformationGathering/assets/145742540/dedf8065-b4ca-4a25-b006-e9f63b2ed210)
+
+![Screenshot 2024-04-02 031127](https://github.com/sreekarsh/InformationGathering/assets/139841918/8ff15223-5334-455c-bf9d-424fbff0acd8)
+
 ## WEB ARCHIVE:
-![Screenshot 2024-03-26 040911](https://github.com/MARXINLIJO/InformationGathering/assets/145742540/26da7d38-b86b-43ba-b7a4-d4477e1f7eb1)
+![Screenshot 2024-03-26 031533](https://github.com/sreekarsh/InformationGathering/assets/139841918/d58b4cfc-6e92-4b6d-9997-3b2b30b1e699)
+
 ## NMAP
-![image](https://github.com/MARXINLIJO/InformationGathering/assets/145742540/8505037c-016b-42bf-8b9a-760afbcec4d9)
+
 
 ## WHATWEB
 ![image](https://github.com/MARXINLIJO/InformationGathering/assets/145742540/dec7194b-ebfa-43d8-b6c4-d1ed83268117)
